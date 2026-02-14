@@ -82,6 +82,8 @@ task search отчёт
   
 ## Contacts
 
+[![Me](photo_2026-02-14_10-17-23.jpg)](https://chat.deepseek.com/)
+
 По всем вопросам и предложениям пишите на email@example.com или создайте issue на GitHub.
 
 <a href="#readme-top">back to top</a>
