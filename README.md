@@ -65,12 +65,19 @@ task tag 2 work
 ```
 task search отчёт 
 ```
+* Python
+```py
+print('hello world')
+```
 
 <a href="#readme-top">back to top</a>
   
 ### Other
 
 Вы также можете указывать приоритеты, например: task add "Написать отчёт" --priority high. В ответ программа сообщит, что задача добавлена, и покажет её идентификатор. Команда task list выведет таблицу с номерами задач, их описанием, статусом (сделано или нет), приоритетом и тегами. А чтобы увидеть только выполненные задачи, наберите task list --filter "done".
+
+- [ ] some text
+- [x] some text
 
 <a href="#readme-top">back to top</a>
 
@@ -81,6 +88,8 @@ task search отчёт
 <a href="#readme-top">back to top</a>
   
 ## Contacts
+
+<!-- Чекайте бомбовая лошадь -->
 
 [![Me](photo_2026-02-14_10-17-23.jpg)](https://chat.deepseek.com/)
 
@@ -93,4 +102,11 @@ task search отчёт
 * [Цитаты Стетхема](https://www.reddit.com/r/rusAskReddit/comments/16omboo/%D0%BD%D0%B5%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA_%D1%86%D0%B8%D1%82%D0%B0%D1%82_%D1%81%D1%82%D1%8D%D1%82%D1%85%D1%8D%D0%BC%D0%B0/)
 
 <a href="#readme-top">back to top</a>
-  
+
+## Table
+
+| Функция | Описание |
+|---------|----------|
+| `print()` | **Выводит** сообщение в [консоль](https://example.com) |
+| `len()` | Возвращает _длину_ объекта |
+
